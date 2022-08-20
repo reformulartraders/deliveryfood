@@ -4,7 +4,7 @@ module.exports = {
   apiKey: 'AIzaSyAy4VqaAzdBT9rVbdybefSeJPiljYKdw1g',
   projectId: 'ording-83e6b',
   authDomain: 'ording-83e6b.firebaseapp.com',
-  ANALYTICS_TRACKING_ID: 'UA-49421899-3',
+  ANALYTICS_TRACKING_ID: 'G-0CRGXBDNMM',
   clearCart: true, // Whether to clear the cart after order is placed. Useful while testing
   currency: { symbol: '₹', code: 'INR' },
   manifest: {
